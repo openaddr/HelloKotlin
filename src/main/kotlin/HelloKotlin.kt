@@ -56,4 +56,6 @@ fun notReallyWith1(): (String) -> Int = { str: String ->
 
 fun notReallyWith2(): Function<Int> = { str: String ->
     str.length
+
+    ///
 }
